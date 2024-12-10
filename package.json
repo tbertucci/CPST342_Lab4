@@ -1,7 +1,7 @@
 {
   "name": "grocery_app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using the application provided in your assigned repository, you will walk-through the following steps to host your application on Heroku.",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
@@ -16,6 +16,6 @@
     "sqlite3": "^5.1.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.7"
   }
 }
